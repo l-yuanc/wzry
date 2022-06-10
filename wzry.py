@@ -6,11 +6,15 @@ from random import randint
 # 处理账号参数 浏览点赞任务
 idlist = []
 dict0 = {
-    'gameOpenId': '',
-    'gameRoleId': '',
-    'gameServerId': '',
-    'token': '',
-    'userId': ''
+  'gameOpenId': '7E85DD98BB9B371C28317871720EDC94 ',
+
+  'gameRoleId': '2261831293',
+
+  'gameServerId': '1325',
+
+  'token': 'rFXehuZR',
+
+  'userId': '546406856'
 }
  
 dict1 = {
@@ -28,16 +32,25 @@ idlist.append(dict1)
 idlist1 = []
  
 dict2 = {
-    'serverId': '',
-    'roleId': '',
-    'userId': '',
-    'gameOpenid': '',
-    'openid': '',
-    'msdkToken': '',
-    'appOpenid': '',
-    'timestamp': '',
-    'sig': '',
-    'msdkEncodeParam': ''
+      'serverId': '1325',
+
+  'roleId': '331370263',
+
+  'userId': '546406856',
+
+  'gameOpenid': '7E85DD98BB9B371C28317871720EDC94',
+
+  'openid': 'B7B38B6AFA24BEC5FDC110980FB8618F',
+
+  'msdkToken': 'JhGCmINN',
+
+  'appOpenid': 'B7B38B6AFA24BEC5FDC110980FB8618F',
+
+  'timestamp': '1654673402',
+
+  'sig': '51614bc8ecb741c852d0b6344f0f9651',
+
+  'msdkEncodeParam': 'AE9DF8C1CB54388F4373CD0632C2A5D394D9834A83695D8EAA39E4B5C206961B3FA378E2FB2A72930B56327FC8544CD9EF5BB3BF0708E031E5D5C9444C6B60772A7A14C322D6ADDE0045DF55707CC4ABCD3059B5672D0AFAF91B1BF93C4662984FCD32B05853F92066AC95C1875FCB699BFA4AE5C8E0924A4BF6D0C986762DEF34F1D4261CE4F254488FBC69A5A77F1E03464F2A3E764E49030E8CE6632DD42BC96C16B7212E2EA667AB4248139E9135'
 }
  
 dict3 = {
